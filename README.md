@@ -1,5 +1,5 @@
 ### Hello everyone 👋
-I'm Bartek, a tech enthusiast passionate about natural language processing and its implementations in business.
+I'm a tech enthusiast passionate about natural language processing and its implementations in business.
 
 - 🌱 I’m currently learning Kotlin programming language.
 - 👯 I’m looking to collaborate on innovative AI projects.
