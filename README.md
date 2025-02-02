@@ -1,5 +1,5 @@
 ### Hello everyone 👋
-I'm a tech enthusiast passionate about natural language processing and its implementations in business.
+I'm a tech enthusiast passionate about natural language processing and its implementations in finance.
 
 - 🌱 I’m currently learning Machine Learning in Python.
 - 👯 I’m looking to collaborate on innovative AI projects.
